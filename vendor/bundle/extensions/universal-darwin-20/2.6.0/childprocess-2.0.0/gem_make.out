@@ -1,0 +1,5 @@
+current directory: /Users/inagekanta/puroduct/toy_app/vendor/bundle/gems/childprocess-2.0.0/ext
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby mkrf_conf.rb
+
+current directory: /Users/inagekanta/puroduct/toy_app/vendor/bundle/gems/childprocess-2.0.0/ext
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -rrubygems /Users/inagekanta/puroduct/toy_app/vendor/bundle/gems/rake-13.0.6/exe/rake RUBYARCHDIR\=/Users/inagekanta/puroduct/toy_app/vendor/bundle/extensions/universal-darwin-20/2.6.0/childprocess-2.0.0 RUBYLIBDIR\=/Users/inagekanta/puroduct/toy_app/vendor/bundle/extensions/universal-darwin-20/2.6.0/childprocess-2.0.0
